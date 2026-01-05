@@ -48,8 +48,12 @@ serem descobertos, atacando diretamente os inocentes
 -   **Cartas de Ação:** recursos, eventos, sabotagens e defesas
 -   **Cartas de Traidor:** ataques diretos após revelação
 
-Principais mecânicas: - Traidor oculto - Gestão de mão - Eventos
-dinâmicos - Rolagem de dados - Blefe e dedução social
+### Principais mecânicas: 
+- Traidor oculto 
+- Gestão de mão 
+- Eventos dinâmicos 
+- Rolagem de dados 
+- Blefe e dedução social
 
 ## 🏁 Condições de Vitória
 
