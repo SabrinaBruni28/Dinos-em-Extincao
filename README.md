@@ -9,10 +9,10 @@ esforços.
 
 ## 🎯 Visão Geral
 
--   **Gênero:** Jogo de tabuleiro cooperativo com traidor oculto\
--   **Jogadores:** 3 a 6\
--   **Idade recomendada:** 10+\
--   **Duração:** 20 minutos a 1h30\
+-   **Gênero:** Jogo de tabuleiro cooperativo com traidor oculto
+-   **Jogadores:** 3 a 6
+-   **Idade recomendada:** 10+
+-   **Duração:** 20 minutos a 1h30
 -   **Tema:** Sobrevivência, cooperação, blefe e sabotagem
 
 ## 🧩 Objetivo do Jogo
@@ -44,8 +44,8 @@ serem descobertos, atacando diretamente os inocentes
 
 ## 🃏 Cartas e Mecânicas Principais
 
--   **Cartas de Mapa:** constroem o tabuleiro\
--   **Cartas de Ação:** recursos, eventos, sabotagens e defesas\
+-   **Cartas de Mapa:** constroem o tabuleiro
+-   **Cartas de Ação:** recursos, eventos, sabotagens e defesas
 -   **Cartas de Traidor:** ataques diretos após revelação
 
 Principais mecânicas: - Traidor oculto - Gestão de mão - Eventos
@@ -53,7 +53,7 @@ dinâmicos - Rolagem de dados - Blefe e dedução social
 
 ## 🏁 Condições de Vitória
 
--   **Dinocentes:** completar 2 pontos-chave ou montar o foguete\
+-   **Dinocentes:** completar 2 pontos-chave ou montar o foguete
 -   **Traidorex:** sabotar objetivos ou impedir a vitória dos inocentes
 
 ## 🎭 Experiência
